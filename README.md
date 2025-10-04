@@ -3,6 +3,8 @@
 💻 Desenvolvedor Web Full-stack  
 🎓 Engenheiro de Software
 
+---
+
 #### 🚀 Tech Stack
 
 ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -28,14 +30,27 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
+<br/>
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyvieira-dev&layout=compact&theme=dark&cache_seconds=21600&border_radius=0)]()
+
+---
+
+#### 🎮 GitHub Contribution Snake
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+    <img alt="github contribution grid snake" src="assets/github-snake-dark.svg" />
+</picture>
+
+---
+
 #### 📬 Contact
 
 <a href="https://www.linkedin.com/in/weslleyvieira-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:wesllivs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://portfolio-weslleyvieira-projects.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank">
-</a>
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
