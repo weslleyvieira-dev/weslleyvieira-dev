@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     name: Generate snake from contributions
@@ -13,6 +16,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Ensure assets directory exists
+        run: mkdir -p assets
 
       - name: Generate snake SVGs (svg-only)
         uses: Platane/snk/svg-only@v3
