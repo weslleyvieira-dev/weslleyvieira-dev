@@ -21,6 +21,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
 #### 🛠️ Tools
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -30,9 +32,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-<br/>
+<!-- <br/>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyvieira-dev&layout=compact&theme=dark&cache_seconds=21600&border_radius=0)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyvieira-dev&layout=compact&theme=dark&cache_seconds=21600&border_radius=0)]() -->
 
 ---
 
