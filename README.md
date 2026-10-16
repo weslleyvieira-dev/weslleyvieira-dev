@@ -1,29 +1,44 @@
 ### Olá! Eu sou o Weslley Vieira 👋
 
-💻 Desenvolvedor Web Full-stack  
-🎓 Engenheiro de Software
+💻 Desenvolvedor Full-Stack<br>
+🎓 Engenheiro de Software pela Universidade Federal do Ceará (UFC)<br>
+📍 Quixadá, Ceará
+
+Atuo como Engenheiro de Software na **Luavi**, desenvolvendo aplicações web full-stack, com foco em front-end, para soluções próprias e sob demanda. Trabalho com interfaces, componentes reutilizáveis, dashboards e funcionalidades de negócio, além de APIs, autenticação, integrações e bancos de dados.
+
+Minha stack atual inclui **React, Next.js, TypeScript, Astro, Tailwind CSS, Node.js, Fastify, Prisma e PostgreSQL**. Participo de decisões técnicas, definição de requisitos, arquitetura de aplicações e revisão de código.
+
+Também atuo como desenvolvedor Full Stack freelancer desde outubro de 2024. Anteriormente, trabalhei no Núcleo de Práticas em Informática (NPI/UFC), desenvolvendo sistemas com Vue.js 3, Java, Spring Boot e PostgreSQL.
 
 ---
 
-#### 🚀 Tech Stack
+#### 🚀 Stack principal
 
-![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+**Front-end**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Back-end e dados**
 
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Experiência anterior e outros projetos**
+
+![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
-#### 🛠️ Tools
+#### 🛠️ Ferramentas
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -32,9 +47,25 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-<!-- <br/>
+---
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyvieira-dev&layout=compact&theme=dark&cache_seconds=21600&border_radius=0)]() -->
+#### 🎬 Projeto em destaque
+
+**[Entertainment Web App](https://watch-wellsz.vercel.app)**
+
+Aplicação para descobrir e organizar filmes e séries, com listagem, filtros e gerenciamento personalizado de conteúdo.
+
+- **Front-end:** Vue.js e interface responsiva.
+- **Back-end:** API com Node.js e Express.js.
+- **Banco de dados:** PostgreSQL.
+
+Veja outros projetos no meu [portfólio](https://portfolio-weslleyvieira-projects.vercel.app).
+
+---
+
+#### 🌎 Inglês
+
+EF SET English Certificate — **B2 (Upper Intermediate)**, emitido em outubro de 2025.
 
 ---
 
@@ -48,7 +79,7 @@
 
 ---
 
-#### 📬 Contact
+#### 📬 Contato
 
 <a href="https://www.linkedin.com/in/weslleyvieira-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
